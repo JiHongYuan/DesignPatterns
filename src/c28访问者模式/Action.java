@@ -1,4 +1,4 @@
-package c28;
+package c28访问者模式;
 
 /**
  * @author jiHongYuan
