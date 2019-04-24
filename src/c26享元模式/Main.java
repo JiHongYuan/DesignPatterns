@@ -9,7 +9,7 @@ package c26享元模式;
 public class Main {
 
     /**
-     *  享元模式：运用共享技术有效地支持大量细粒度的对象。
+     *  享元模式： 运用共享技术有效地支持大量细粒度的对象。
      * */
     public static void main(String[] args) {
         int extrinsicstate = 22;
